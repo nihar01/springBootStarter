@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 01 17:00:05 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0178-8d32-9335-0000051cfe90 
+on database directory memory:/home/nihar/Documents/IntellijProjects/sample_spring/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/nihar/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_282-8u282-b08-0ubuntu1~20.04-b08
+user.dir=/home/nihar/Documents/IntellijProjects/sample_spring
+os.name=Linux
+os.arch=amd64
+os.version=5.8.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
